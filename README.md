@@ -1,5 +1,5 @@
-# Yo.
+# yo
 
-Just another software developer.
+just another software developer
 
-Mainly Java and Rust though.
+mainly java though. also rust, c, and kotlin sometimes.
